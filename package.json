@@ -46,13 +46,13 @@
   },
   "homepage": "https://github.com/valor-software/ng2-charts#readme",
   "peerDependencies": {
-    "angular2": "2.0.0-beta.15"
+    "angular2": "https://github.com/angular/angular.git"
   },
   "dependencies": {
     "chart.js": "1.0.2"
   },
   "devDependencies": {
-    "angular2": "2.0.0-beta.15",
+    "angular2": "https://github.com/angular/angular.git",
     "async": "2.0.0-rc.3",
     "bootstrap": "3.3.6",
     "chart.js": "1.0.2",
